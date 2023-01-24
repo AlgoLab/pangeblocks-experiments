@@ -1,6 +1,7 @@
 make_prg_0.4.0
 output*/
 msas*/
+.snakemake/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
