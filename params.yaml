@@ -3,12 +3,12 @@ PATH_MSAS: "msas"
 
 # make_prg
 MAKEPRG:
-  PATH_OUTPUT: "output-makeprg"
+  PATH_OUTPUT: "output/makeprg"
 
 # minigraph
 MINIGRAPH:
-  PATH_OUTPUT: "output-minigraph"
+  PATH_OUTPUT: "output/minigraph"
 
 # PanPA
 PANPA:
-  PATH_OUTPUT: "output-PanPA"
+  PATH_OUTPUT: "output/PanPA"
