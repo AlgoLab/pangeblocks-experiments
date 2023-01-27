@@ -3,9 +3,6 @@ data_dir = "data"
 
 rule all: 
     input: 
-        # Path(data_dir).joinpath("all_proteins_cluster_cluster.tsv") 
-        # Path(data_dir).joinpath("cluster_names.txt")
-        # dir_clusters=Path(data_dir).joinpath("clusters")
         Path(data_dir).joinpath("clusters/cluster_names.txt")
 
 rule download_data:
@@ -23,12 +20,14 @@ rule cluster_mmseqs:
     input: 
         Path(data_dir).joinpath("all_proteins.fasta")
     output:
-        Path(data_dir).joinpath("all_proteins_cluster_cluster.tsv")
+        Path(data_dir).joinpath("all_proteins_cluster_all_seqs.fasta"),
+        Path(data_dir).joinpath("all_proteins_cluster_cluster.tsv"),
+        Path(data_dir).joinpath("all_proteins_cluster_rep_seq.fasta")
     params:
         aux="all_proteins_cluster"
     shell: 
         f"""
-        mmseqs easy-linclust {{input}} {data_dir}{{params.aux}} tmp --min-seq-id 0.4
+        mmseqs easy-linclust {{input}} {data_dir}/{{params.aux}} tmp --min-seq-id 0.4
         rm -r tmp/
         """
 

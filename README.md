@@ -16,6 +16,14 @@ mamba activate .pbexp-env
 For make_prg, the snakemake pipeline downloads the executable
 
 ___
+## E Coli experiment
+this requires `data/ftp_links.txt`
+```
+snakemake -s rules/ecoli-experiment-cluster.smk -c16 
+snakemake -s rules/ecoli-experiment-msa.smk -c16
+```
+
+___
 ## Graphs
 
 ### `make_prg`
@@ -26,10 +34,4 @@ snakemake -s rules/makeprg.smk -c16
 ### `minigraph`
 ```
 snakemake -s rules/minigraph.smk -c16
-```
-
-```
-PATH_PANGEBLOCKS="../pangeblocks"
-snakemake -s $PATH_PANGEBLOCKS/eda.smk -c 8 --config PATH_MSAS=msas PATH_OUTPUT=output/pangeblocks
-snakemake -s $PATH_PANGEBLOCKS/pangeblock.smk -c 8 --config PATH_MSAS=msas PATH_OUTPUT=output/pangeblocks
 ```
