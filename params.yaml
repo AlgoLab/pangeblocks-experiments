@@ -12,3 +12,11 @@ MINIGRAPH:
 # PanPA
 PANPA:
   PATH_OUTPUT: "output/PanPA"
+
+# pangeblocks
+PATH_OUTPUT: "output/pangeblocks"
+OPTIMIZATION:
+  OBJECTIVE_FUNCTION: "weighted" # nodes, strings, weighted
+  PENALIZATION: 3 # used only with "weighted"
+  MIN_LEN: 2 # used only with "weighted"
+LOG_LEVEL: "INFO"
