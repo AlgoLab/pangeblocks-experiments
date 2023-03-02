@@ -1,15 +1,21 @@
 configfile: "params.yaml"
 from pathlib import Path
+from os.path import join as pjoin
+
+CONFLICT_MSAS=["DRB5-3127"]#, "DQA1-3117"]
 
 PATH_MSAS   = config["PATH_MSAS"]
-TOOL="MAKEPRG"
-PATH_OUTPUT = config[TOOL]["PATH_OUTPUT"]
+PATH_OUTPUT = config["MAKEPRG_OUTPUT"]
 Path(PATH_OUTPUT).mkdir(exist_ok=True, parents=True)
-NAMES = [path.stem for path in Path(PATH_MSAS).rglob("*.fa")]
+
+list_fasta = list(Path(PATH_MSAS).glob("*.fa")) + list(Path(PATH_MSAS).glob("*.fasta")) 
+EXT=str(list_fasta[0]).split(".")[-1]
+NAMES = [path.stem for path in list_fasta if path.stem not in CONFLICT_MSAS]
+print(NAMES)
 
 rule all:
     input:
-        expand("{path_output}/{name_msa}.gfa", name_msa=NAMES, path_output=PATH_OUTPUT)
+        expand(pjoin(PATH_OUTPUT, "{name_msa}.gfa"), name_msa=NAMES)
 
 rule download_make_prg:
     output:
@@ -22,21 +28,25 @@ rule download_make_prg:
 
 rule generate_prg:
     input:
-        "make_prg_0.4.0"
+        makeprg="make_prg_0.4.0",
+        path_msa=pjoin(PATH_MSAS, "{name_msa}"+f".{EXT}")
     output:
-        f"{PATH_OUTPUT}/.prg.gfa.zip"
-    benchmark:
-        f"{PATH_OUTPUT}/benchmarks/make_prg.benchmark.txt"
-    log:
-        f"{PATH_OUTPUT}/logs/make_prg.log"
-    shell:
-        f"/usr/bin/time --verbose ./{{input}} from_msa -i {PATH_MSAS} -o {PATH_OUTPUT}/ --output-type g 2> {{log}}"
-
-rule extract_gfa: 
-    input:
-        path_zip=expand("{path_output}/.prg.gfa.zip",path_output=PATH_OUTPUT),
+        f"{PATH_OUTPUT}/{{name_msa}}.prg.gfa"
+    params:
         path_output=PATH_OUTPUT
-    output: 
-        expand("{path_output}/{name_msa}.gfa", name_msa=NAMES,path_output=PATH_OUTPUT)
+    log:
+        out=f"{PATH_OUTPUT}/logs/{{name_msa}}.rule-generate_prg.out.log",
+        err=f"{PATH_OUTPUT}/logs/{{name_msa}}.rule-generate_prg.err.log"
     shell:
-        "unzip {input.path_zip} -d {input.path_output}"
+        "/usr/bin/time --verbose ./{input.makeprg} from_msa -i {input.path_msa} -o {params.path_output}/{wildcards.name_msa} --output-type g 2> {log.err} > {log.out}"
+
+rule postprocessing:
+    input: 
+        f"{PATH_OUTPUT}/{{name_msa}}.prg.gfa"
+    output:
+        f"{PATH_OUTPUT}/{{name_msa}}.gfa"
+    shell:
+        """
+        python3 utils/clean_gfa_from_ast.py {input} > {output}
+        rm {input}
+        """

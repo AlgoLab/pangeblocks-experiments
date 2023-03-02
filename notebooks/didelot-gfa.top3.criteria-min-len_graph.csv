@@ -1,0 +1,13 @@
+,tool,gfa_id,msa,obj_function,penalization,min_len,len_graph,n_nodes,n_edges
+0,pangeblocks,slpa-real,mafft.op3-ep0,strings,0,0,4353,1473,2217
+1,pangeblocks,slpa-real,mafft.op3-ep0,nodes,0,0,4503,923,1310
+2,pangeblocks,slpa-real,mafft.op3-ep0,weighted,7,10,4503,923,1310
+3,pangeblocks,coli27-86,mafft.op1.53-ep0,strings,0,0,4235,2205,3015
+4,pangeblocks,coli27-86,mafft.op3-ep0,strings,0,0,4235,2199,3005
+5,pangeblocks,coli27-86,mafft.op5-ep0,strings,0,0,4235,2193,2997
+6,pangeblocks,slpa-basis,mafft.op1.53-ep0,strings,0,0,5006,3406,5569
+7,pangeblocks,slpa-basis,mafft.op1.53-ep0,weighted,5,10,5210,3115,5143
+8,pangeblocks,slpa-basis,mafft.op1.53-ep0,weighted,7,10,5210,3115,5143
+9,pangeblocks,slpa-simu,mafft.op3-ep0,strings,0,0,5097,2582,4161
+10,pangeblocks,slpa-simu,mafft.op5-ep0,strings,0,0,5303,2722,4430
+11,pangeblocks,slpa-simu,mafft.op1.53-ep0,strings,0,0,5368,2795,4617

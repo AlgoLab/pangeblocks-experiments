@@ -1,0 +1,6 @@
+name: postprocessing
+channels:
+  - bioconda
+dependencies:
+  - smoothxg
+  - gfaffix
