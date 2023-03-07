@@ -1,28 +1,9 @@
+"Compute number of weakly connected components from a GFA"
 import networkx as nx
-
-def load_graph(path_gfa):
-    G = nx.DiGraph()
-
-
-    for line in open(path_gfa):
-        line = line.strip("\n").split("\t")
-        if line[0] == "S":
-            _, idx, seq = line
-            seq = seq.replace("-","")
-            G.add_node(idx, seq=seq)
-
-    for line in open(path_gfa):
-        line = line.strip("\n").split("\t")
-        if line[0] == "L":
-            _, idx1, _, idx2, _, _ = line
-            G.add_edge(idx1, idx2)
-
-    return G
 
 def load_gfa(path_gfa):
     G = nx.DiGraph()
-    # nodes=dict()
-    # edges=[]
+    
     with open(path_gfa, "r") as fp:
         for line in fp.readlines():    
             # nodes
@@ -32,12 +13,10 @@ def load_gfa(path_gfa):
                 except:
                     _, nodeid, label, _ = line.replace("\n","").split("\t")
                 G.add_node(nodeid, seq=label)
-                # nodes[nodeid] = {"label": label, "len": len(label)}
-
-            # edges: L	4	+	86	+	0M
+        
+            # edges
             if line.startswith("L"):
                 _, nodeid1, _, nodeid2, _, _ = line.replace("\n","").split("\t") 
-                # edges.append((nodeid1, nodeid2))
                 G.add_edge(nodeid1, nodeid2)
 
     return G 

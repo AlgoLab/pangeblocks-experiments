@@ -6,15 +6,19 @@ TODO
 - [ ] create env for PanPA
 - [ ] create env for pggb
 
-# Connected components
+# Stats
+### Didelot graphs
 ```
-ls didelot-pggb/*/*.smooth.fix.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X" ; done >> notebooks/didelot-connected_components.csv
-ls didelot-PanPA/*/*.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X" ; done >> notebooks/didelot-connected_components.csv
-ls didelot-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X"; done >> notebooks/didelot-connected_components.csv
+echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components" > notebooks/didelot-stats.gfa.csv
+ls didelot-pggb/*/*.smooth.fix.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
+ls didelot-PanPA/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
+ls didelot-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
 ```
 
+### HLA-zoo graphs
 ```
-ls HLA-zoo-pggb/*.smooth.fix.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X" ; done >> notebooks/HLA-zoo-connected_components.csv
-ls HLA-zoo-PanPA/*/*.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X" ; done >> notebooks/HLA-zoo-connected_components.csv
-ls HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do X=$(python3 utils/components.py $f) && echo "$f,$X"; done >> notebooks/HLA-zoo-connected_components.csv
+echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components" > notebooks/HLA-zoo-stats.gfa.csv
+ls didelot-pggb/*/*.smooth.fix.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
+ls didelot-PanPA/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
+ls didelot-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ```
