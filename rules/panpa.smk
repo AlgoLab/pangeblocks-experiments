@@ -4,8 +4,7 @@ from os.path import join as pjoin
 
 PATH_MSAS=config["PATH_MSAS"]
 
-TOOL="PANPA"
-PATH_OUTPUT=config[TOOL]["PATH_OUTPUT"]
+PATH_OUTPUT=config["PANPA_OUTPUT"]
 Path(PATH_OUTPUT).mkdir(exist_ok=True, parents=True)
 
 list_fasta = list(Path(PATH_MSAS).glob("*.fa")) + list(Path(PATH_MSAS).glob("*.fasta")) 
@@ -22,8 +21,8 @@ rule graph_construction:
     output: 
         path_gfa=pjoin(PATH_OUTPUT, "{name_msa}.gfa")
     log:
-        out=pjoin(PATH_OUTPUT,"logs","{name_msa}.out.log"),
-        err=pjoin(PATH_OUTPUT,"logs","{name_msa}.err.log"),
+        out=pjoin(PATH_OUTPUT,"logs","{name_msa}-rule-graph_construction.out.log"),
+        err=pjoin(PATH_OUTPUT,"logs","{name_msa}-rule-graph_construction.err.log"),
     params:
         path_msas=PATH_MSAS,
         path_output=PATH_OUTPUT

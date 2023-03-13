@@ -1,0 +1,12 @@
+/data/pangeblocks-experiments/HLA-zoo-pggb/B-3106.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa,B-3106,gi|299782605:5000-8340
+/data/pangeblocks-experiments/HLA-zoo-pggb/C-3107.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa,C-3107,gi|342187247:4995-8382
+/data/pangeblocks-experiments/HLA-zoo-pggb/DMA-3108.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa,DMA-3108,gi|236459249:5000-9508
+/data/pangeblocks-experiments/HLA-zoo-pggb/DOA-3111.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa,DOA-3111,gi|236459287:5000-10430
+/data/pangeblocks-experiments/HLA-zoo-pggb/DOB-3112.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa,DOB-3112,gi|236459349:5000-9285
+/data/pangeblocks-experiments/HLA-zoo-pggb/DOB-3112.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa,DOB-3112,gi|530354716:26722-31007
+/data/pangeblocks-experiments/HLA-zoo-pggb/DPA1-3113.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa,DPA1-3113,gi|501355759:5000-21209
+/data/pangeblocks-experiments/HLA-zoo-pggb/DQB1-3119.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa,DQB1-3119,gi|345525393:5000-12600
+/data/pangeblocks-experiments/HLA-zoo-pggb/DRA-3122.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa,DRA-3122,gi|568815572:9686-14890
+/data/pangeblocks-experiments/HLA-zoo-pggb/DRB1-3123.fa.61050f1.34ee7b1.5fb0e8f.smooth.fix.gfa,DRB1-3123,gi|345525392:5000-18402
+/data/pangeblocks-experiments/HLA-zoo-pggb/TAP1-6890.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa,TAP1-6890,gi|226246635:5000-13762
+/data/pangeblocks-experiments/HLA-zoo-pggb/TAP2-6891.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa,TAP2-6891,gi|530354716:4947-21937

@@ -978,3 +978,598 @@ HLA-zoo-pangeblocks/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalizatio
 HLA-zoo-pangeblocks/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP1-6890.gfa	5020	6702	14828	acyclic	1
 HLA-zoo-pangeblocks/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP2-6891.gfa	10336	13841	28917	acyclic	1
 HLA-zoo-pangeblocks/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/V-352962.gfa	54	74	1098	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/A-3105.gfa	579	833	7185	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/B-3106.gfa	352	496	8621	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/C-3107.gfa	408	565	7310	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DMA-3108.gfa	62	80	8953	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DMB-3109.gfa	40	52	6455	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DOA-3111.gfa	165	219	10807	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DPA1-3113.gfa	198	263	32395	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DPB1-3115.gfa	677	907	14400	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DQB1-3119.gfa	1428	2154	24174	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DRA-3122.gfa	189	254	10525	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DRB3-3125.gfa	530	708	13460	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/DRB4-3126.gfa	63	83	44634	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/E-3133.gfa	13	16	4804	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/F-3134.gfa	74	99	17870	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/G-3135.gfa	160	214	4262	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/H-3136.gfa	190	258	3546	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/J-3137.gfa	95	127	4051	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/K-3138.gfa	267	374	3604	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/L-3139.gfa	226	301	7596	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/MICA-100507436.gfa	371	502	34902	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/MICB-4277.gfa	135	179	102134	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/TAP1-6890.gfa	113	148	17347	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/TAP2-6891.gfa	322	435	34014	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op1.53-ep0/V-352962.gfa	48	62	1025	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/A-3105.gfa	577	830	7205	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/B-3106.gfa	360	506	8718	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/C-3107.gfa	391	539	7231	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DMA-3108.gfa	38	48	9017	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DMB-3109.gfa	43	56	6565	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DOA-3111.gfa	197	262	10661	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DPA1-3113.gfa	163	216	32436	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DPB1-3115.gfa	677	907	14400	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DQB1-3119.gfa	1475	2211	23223	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DRA-3122.gfa	168	226	10541	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DRB3-3125.gfa	530	708	13460	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/DRB4-3126.gfa	63	83	44634	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/E-3133.gfa	13	16	4804	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/F-3134.gfa	74	99	17870	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/G-3135.gfa	160	214	4262	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/H-3136.gfa	190	258	3546	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/J-3137.gfa	95	127	4051	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/K-3138.gfa	268	375	3595	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/L-3139.gfa	226	301	7596	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/MICA-100507436.gfa	371	502	34902	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/MICB-4277.gfa	135	179	102134	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/TAP1-6890.gfa	59	76	17483	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/TAP2-6891.gfa	275	372	34092	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op3-ep0/V-352962.gfa	48	62	1025	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/A-3105.gfa	573	825	7235	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/B-3106.gfa	353	497	8722	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/C-3107.gfa	389	536	7235	acyclic	2
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DMA-3108.gfa	35	44	9029	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DMB-3109.gfa	43	56	6565	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DOA-3111.gfa	183	243	10700	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DPA1-3113.gfa	154	204	32473	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DPB1-3115.gfa	677	907	14400	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DQB1-3119.gfa	1484	2217	23021	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DRA-3122.gfa	180	242	10494	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DRB3-3125.gfa	530	708	13460	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DRB4-3126.gfa	62	81	44627	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/DRB5-3127.gfa	1	0	12856	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/E-3133.gfa	13	16	4804	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/F-3134.gfa	72	96	17874	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/G-3135.gfa	160	214	4262	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/H-3136.gfa	190	258	3546	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/J-3137.gfa	92	123	4069	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/K-3138.gfa	268	375	3595	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/L-3139.gfa	226	301	7596	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/MICA-100507436.gfa	371	502	34902	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/MICB-4277.gfa	135	179	102134	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/TAP1-6890.gfa	47	60	17509	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/TAP2-6891.gfa	264	357	34099	acyclic	1
+HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0/V-352962.gfa	48	62	1025	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DQB1-3119.gfa	2836	3918	9136	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/B-3106.gfa	475	647	4185	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/DRB1-3123.gfa	3936	5475	27569	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DQB1-3119.gfa	2837	3920	9146	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/B-3106.gfa	475	647	4185	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DRB1-3123.gfa	3936	5475	27569	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DQB1-3119.gfa	2837	3920	9141	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DQB1-3119.gfa	2836	3918	9131	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DQB1-3119.gfa	2837	3920	9141	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DQB1-3119.gfa	2836	3918	9127	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DQB1-3119.gfa	2836	3918	9127	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DRB1-3123.gfa	3936	5475	27569	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/B-3106.gfa	475	647	4185	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DQB1-3119.gfa	2837	3920	9146	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DRB1-3123.gfa	3935	5474	27564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/DQB1-3119.gfa	2836	3918	9127	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DRB1-3123.gfa	3935	5474	27545	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/B-3106.gfa	475	647	4183	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DQB1-3119.gfa	2836	3918	9130	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DRB1-3123.gfa	5588	7645	21254	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DQB1-3119.gfa	2907	3995	8935	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DRB1-3123.gfa	5506	7535	20965	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/DQB1-3119.gfa	2881	3956	8891	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DRB1-3123.gfa	3733	5190	28054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DQB1-3119.gfa	2818	3891	9085	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DRB1-3123.gfa	3733	5190	28054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DQB1-3119.gfa	2818	3891	9085	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DRB1-3123.gfa	3733	5190	28054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DQB1-3119.gfa	2818	3891	9085	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DRB1-3123.gfa	3734	5191	28056	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DQB1-3119.gfa	2818	3891	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DQB1-3119.gfa	2818	3891	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DRB1-3123.gfa	3734	5191	28056	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DQB1-3119.gfa	2818	3891	9089	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DRB1-3123.gfa	3733	5190	28053	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DRB1-3123.gfa	3733	5190	28053	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/DQB1-3119.gfa	2818	3891	9089	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DRB1-3123.gfa	3733	5190	28053	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DQB1-3119.gfa	2818	3891	9089	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DRB1-3123.gfa	3734	5191	28056	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DQB1-3119.gfa	2818	3891	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DRB1-3123.gfa	3733	5190	28054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/C-3107.gfa	498	672	3577	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DQB1-3119.gfa	2818	3891	9088	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP2-6891.gfa	263	359	17059	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DQB1-3119.gfa	2823	3897	9095	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DRB1-3123.gfa	3817	5307	27556	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DQB1-3119.gfa	2886	3961	8894	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/DRB1-3123.gfa	5557	7600	21070	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DQB1-3119.gfa	2823	3897	9092	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DRB1-3123.gfa	3817	5307	27556	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DQB1-3119.gfa	2823	3897	9092	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DRB1-3123.gfa	3817	5307	27556	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DQB1-3119.gfa	2823	3897	9092	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DRB1-3123.gfa	3817	5307	27556	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DRB1-3123.gfa	3818	5308	27558	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/DQB1-3119.gfa	2823	3897	9112	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DQB1-3119.gfa	2823	3897	9112	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DRB1-3123.gfa	3818	5308	27558	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DQB1-3119.gfa	2823	3897	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DRB1-3123.gfa	3817	5307	27555	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DRB1-3123.gfa	3817	5307	27555	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/DQB1-3119.gfa	2823	3897	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DQB1-3119.gfa	2823	3897	9096	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/B-3106.gfa	474	646	4184	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DRB1-3123.gfa	3817	5307	27555	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DQB1-3119.gfa	2823	3897	9112	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP2-6891.gfa	263	359	17061	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/C-3107.gfa	498	672	3578	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/B-3106.gfa	474	646	4186	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/DRB1-3123.gfa	3818	5308	27558	acyclic	1
+HLA-zoo-pangeblocks-norevcomplement/output-HLA-zoo-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-pggb/A-3105.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/B-3106.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa		
+HLA-zoo-pggb/C-3107.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DMA-3108.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/DMB-3109.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DOA-3111.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DOB-3112.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DPA1-3113.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/DPB1-3115.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/DQA1-3117.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DQB1-3119.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/DRA-3122.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/DRB1-3123.fa.61050f1.34ee7b1.5fb0e8f.smooth.fix.gfa		
+HLA-zoo-pggb/DRB3-3125.fa.fdf4b47.34ee7b1.82ca3eb.smooth.fix.gfa		
+HLA-zoo-pggb/DRB4-3126.fa.bab52bb.34ee7b1.6c8dee8.smooth.fix.gfa		
+HLA-zoo-pggb/DRB5-3127.fa.fe2283c.34ee7b1.dde6893.smooth.fix.gfa		
+HLA-zoo-pggb/E-3133.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa		
+HLA-zoo-pggb/F-3134.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/G-3135.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/H-3136.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/J-3137.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-pggb/K-3138.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa		
+HLA-zoo-pggb/L-3139.fa.b8870d2.34ee7b1.b40e6a4.smooth.fix.gfa		
+HLA-zoo-pggb/MICA-100507436.fa.b8870d2.34ee7b1.b40e6a4.smooth.fix.gfa		
+HLA-zoo-pggb/MICB-4277.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/TAP1-6890.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/TAP2-6891.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa		
+HLA-zoo-pggb/V-352962.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/B-3106.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/C-3107.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DMA-3108.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DOA-3111.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DOB-3112.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DPA1-3113.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DQB1-3119.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DRA-3122.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DRB1-3123.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/TAP1-6890.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/TAP2-6891.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/B-3106.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/C-3107.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DMA-3108.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DOA-3111.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DOB-3112.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DPA1-3113.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DQB1-3119.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DRA-3122.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DRB1-3123.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/TAP1-6890.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/TAP2-6891.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/B-3106.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/C-3107.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DMA-3108.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DOA-3111.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DOB-3112.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DPA1-3113.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DQB1-3119.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DRA-3122.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DRB1-3123.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/TAP1-6890.gfa		
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/TAP2-6891.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/B-3106.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/C-3107.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DMA-3108.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DOA-3111.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DOB-3112.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DPA1-3113.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DQB1-3119.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DRA-3122.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/TAP1-6890.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/TAP2-6891.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/B-3106.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/C-3107.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DMA-3108.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DOA-3111.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DOB-3112.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DPA1-3113.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DQB1-3119.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/DRA-3122.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/TAP1-6890.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op3-ep0/TAP2-6891.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/B-3106.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/C-3107.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DMA-3108.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DOA-3111.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DOB-3112.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DPA1-3113.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DQB1-3119.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/DRA-3122.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/TAP1-6890.gfa		
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op5-ep0/TAP2-6891.gfa		
+HLA-zoo-pggb/A-3105.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	4966	6793	45897	cyclic	1
+HLA-zoo-pggb/B-3106.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa	483	656	4188	acyclic	1
+HLA-zoo-pggb/C-3107.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	506	681	3566	acyclic	1
+HLA-zoo-pggb/DMA-3108.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	31	40	4522	acyclic	1
+HLA-zoo-pggb/DMB-3109.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	51	67	6577	acyclic	1
+HLA-zoo-pggb/DOA-3111.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	119	158	5471	acyclic	1
+HLA-zoo-pggb/DOB-3112.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	56	73	4856	acyclic	1
+HLA-zoo-pggb/DPA1-3113.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	153	204	16269	acyclic	1
+HLA-zoo-pggb/DPB1-3115.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	879	1179	14088	acyclic	1
+HLA-zoo-pggb/DQA1-3117.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	1904	2599	19051	acyclic	1
+HLA-zoo-pggb/DQB1-3119.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	2864	3933	8876	acyclic	1
+HLA-zoo-pggb/DRA-3122.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	180	241	5271	acyclic	1
+HLA-zoo-pggb/DRB1-3123.fa.61050f1.34ee7b1.5fb0e8f.smooth.fix.gfa	5002	6850	21355	acyclic	1
+HLA-zoo-pggb/DRB3-3125.fa.fdf4b47.34ee7b1.82ca3eb.smooth.fix.gfa	617	825	13323	acyclic	1
+HLA-zoo-pggb/DRB4-3126.fa.bab52bb.34ee7b1.6c8dee8.smooth.fix.gfa	248	331	15080	acyclic	1
+HLA-zoo-pggb/DRB5-3127.fa.fe2283c.34ee7b1.dde6893.smooth.fix.gfa	1	0	12856	acyclic	1
+HLA-zoo-pggb/E-3133.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa	13	16	4804	acyclic	1
+HLA-zoo-pggb/F-3134.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	87	117	16126	acyclic	1
+HLA-zoo-pggb/G-3135.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	165	220	4211	acyclic	1
+HLA-zoo-pggb/H-3136.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	232	311	3421	acyclic	1
+HLA-zoo-pggb/J-3137.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	106	142	4020	acyclic	1
+HLA-zoo-pggb/K-3138.fa.12f909e.34ee7b1.b34f00e.smooth.fix.gfa	326	443	3300	acyclic	1
+HLA-zoo-pggb/L-3139.fa.b8870d2.34ee7b1.b40e6a4.smooth.fix.gfa	242	324	7473	acyclic	1
+HLA-zoo-pggb/MICA-100507436.fa.b8870d2.34ee7b1.b40e6a4.smooth.fix.gfa	453	611	15798	acyclic	1
+HLA-zoo-pggb/MICB-4277.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	644	878	16654	cyclic	1
+HLA-zoo-pggb/TAP1-6890.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	34	44	8776	acyclic	1
+HLA-zoo-pggb/TAP2-6891.fa.353ea42.34ee7b1.1576367.smooth.fix.gfa	272	371	17109	cyclic	1
+HLA-zoo-pggb/V-352962.fa.51de401.34ee7b1.3dbd3cb.smooth.fix.gfa	3	0	2948	acyclic	3
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DQB1-3119.gfa	2881	3956	8891	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/DRB1-3123.gfa	5506	7535	20965	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op1.53-ep0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DQB1-3119.gfa	2886	3961	8894	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/DRB1-3123.gfa	5557	7600	21070	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op3-ep0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/B-3106.gfa	477	649	4176	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/C-3107.gfa	503	677	3564	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DMA-3108.gfa	29	38	4520	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DOA-3111.gfa	116	154	5469	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DOB-3112.gfa	54	71	4854	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DPA1-3113.gfa	150	200	16267	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DQB1-3119.gfa	2907	3995	8935	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DRA-3122.gfa	178	239	5269	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/DRB1-3123.gfa	5588	7645	21254	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/TAP1-6890.gfa	32	42	8774	acyclic	1
+HLA-zoo-PanPA-norevcomplement/output-didelot-mafft.op5-ep0/TAP2-6891.gfa	263	359	17054	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/B-3106.gfa	348	493	4782	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/C-3107.gfa	383	531	3988	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DMA-3108.gfa	31	40	4523	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DOA-3111.gfa	116	154	5508	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DOB-3112.gfa	52	68	4330	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DPA1-3113.gfa	135	180	16344	acyclic	1
+HLA-zoo-makeprg-norevcomplement/output-HLA-zoo-mafft.op1.53-ep0/DQB1-3119.gfa	1420	2143	16584	acyclic	1

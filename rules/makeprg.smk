@@ -35,18 +35,21 @@ rule generate_prg:
     params:
         path_output=PATH_OUTPUT
     log:
-        out=f"{PATH_OUTPUT}/logs/{{name_msa}}.rule-generate_prg.out.log",
-        err=f"{PATH_OUTPUT}/logs/{{name_msa}}.rule-generate_prg.err.log"
+        # out=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-generate_prg.out.log",
+        err=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-generate_prg.err.log"
     shell:
-        "/usr/bin/time --verbose ./{input.makeprg} from_msa -i {input.path_msa} -o {params.path_output}/{wildcards.name_msa} --output-type g 2> {log.err} > {log.out}"
+        "/usr/bin/time --verbose ./{input.makeprg} from_msa -i {input.path_msa} -o {params.path_output}/{wildcards.name_msa} --output-type g 2> {log.err}"
 
 rule postprocessing:
     input: 
         f"{PATH_OUTPUT}/{{name_msa}}.prg.gfa"
     output:
         f"{PATH_OUTPUT}/{{name_msa}}.gfa"
+    log:
+        # out=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.out.log",
+        err=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.err.log"
     shell:
         """
-        python3 utils/clean_gfa_from_ast.py {input} > {output}
+        /usr/bin/time -v python3 utils/clean_gfa_from_ast.py {input} > {output} 2> {log.err}
         rm {input}
         """

@@ -5,6 +5,7 @@ msas*/
 tmp*/
 didelot*/
 HLA-zoo*/
+VCF.vg-deconstruct/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
