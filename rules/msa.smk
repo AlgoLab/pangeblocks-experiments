@@ -1,6 +1,5 @@
 configfile: "params-mafft.yaml"
 from pathlib import Path
-
 from os.path import join as pjoin
 
 PATH_SEQS=config["PATH_SEQS"]

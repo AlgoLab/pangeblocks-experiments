@@ -3,7 +3,7 @@ def reverse_complement(seq):
     seq = seq[::-1]
     return "".join(NUC_COMPLEMENT[n] for n in seq)
 
-def load_gfa(path_gfa):
+def load_gfa(path_gfa, return_nodes_path=False):
     nodes=dict()
     edges=[]
     paths=dict()
@@ -27,6 +27,7 @@ def load_gfa(path_gfa):
         for line in fp.readlines():    
 
             # paths
+            nodes_path=[]
             if line.startswith("P"):
                 _, seq_id, path, *_ = line.replace("\n","").split("\t")
 
@@ -40,8 +41,12 @@ def load_gfa(path_gfa):
                         nodeid = node.replace("+","")
                         label  = nodes[nodeid]["label"]
                         labels_path.append(label.upper())
-
-                seq_path   = "".join(labels_path)
-                paths[seq_id] = seq_path
+                    nodes_path.append(nodeid)
+                
+                if return_nodes_path is True:
+                    paths[seq_id] = nodes_path
+                else:
+                    seq_path   = "".join(labels_path)
+                    paths[seq_id] = seq_path
 
     return nodes, edges, paths

@@ -17,7 +17,7 @@ rule all:
 
 rule graph_construction: 
     input: 
-        path_msa=pjoin(PATH_MSAS, "{name_msa}.fasta")
+        path_msa=pjoin(PATH_MSAS, "{name_msa}.fa")
     output: 
         path_gfa=pjoin(PATH_OUTPUT, "{name_msa}.gfa")
     log:

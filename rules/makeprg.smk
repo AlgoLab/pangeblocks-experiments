@@ -2,15 +2,12 @@ configfile: "params.yaml"
 from pathlib import Path
 from os.path import join as pjoin
 
-CONFLICT_MSAS=["DRB5-3127"]#, "DQA1-3117"]
-
 PATH_MSAS   = config["PATH_MSAS"]
 PATH_OUTPUT = config["MAKEPRG_OUTPUT"]
 Path(PATH_OUTPUT).mkdir(exist_ok=True, parents=True)
 
 list_fasta = list(Path(PATH_MSAS).glob("*.fa")) + list(Path(PATH_MSAS).glob("*.fasta")) 
-EXT=str(list_fasta[0]).split(".")[-1]
-NAMES = [path.stem for path in list_fasta if path.stem not in CONFLICT_MSAS]
+NAMES = [path.stem for path in list_fasta]
 print(NAMES)
 
 rule all:
@@ -29,7 +26,7 @@ rule download_make_prg:
 rule generate_prg:
     input:
         makeprg="make_prg_0.4.0",
-        path_msa=pjoin(PATH_MSAS, "{name_msa}"+f".{EXT}")
+        path_msa=pjoin(PATH_MSAS, "{name_msa}.fa")
     output:
         f"{PATH_OUTPUT}/{{name_msa}}.prg.gfa"
     params:
@@ -45,11 +42,11 @@ rule postprocessing:
         f"{PATH_OUTPUT}/{{name_msa}}.prg.gfa"
     output:
         f"{PATH_OUTPUT}/{{name_msa}}.gfa"
-    log:
-        # out=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.out.log",
-        err=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.err.log"
+    # log:
+    #     # out=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.out.log",
+    #     err=f"{PATH_OUTPUT}/logs/{{name_msa}}-rule-postprocessing.err.log"
     shell:
         """
-        /usr/bin/time -v python3 utils/clean_gfa_from_ast.py {input} > {output} 2> {log.err}
+        /usr/bin/time -v python3 utils/clean_gfa_from_ast.py {input} > {output}
         rm {input}
         """
