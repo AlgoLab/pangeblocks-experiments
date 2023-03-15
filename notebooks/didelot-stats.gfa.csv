@@ -1,161 +1,173 @@
-path_gfa	n_nodes	n_edges	len_graph	is_acyclic	weakly_connected_components
-didelot-pggb/coli27-86/coli27-86.fa.gz.269940d.417fcdf.a8b8a10.smooth.final.gfa	2204	3022	4328	acyclic	1
-didelot-pggb/slpa-basis/slpa-basis.fa.gz.acf6c7c.417fcdf.67d1f12.smooth.final.gfa	588	806	21277	acyclic	1
-didelot-pggb/slpa-real/slpa-real.fa.gz.b38b29c.417fcdf.571a156.smooth.final.gfa	2339	3209	23376	acyclic	1
-didelot-pggb/slpa-simu/slpa-simu.fa.gz.b38b29c.417fcdf.571a156.smooth.final.gfa	3757	5266	26125	cyclic	1
-didelot-PanPA/output-didelot-mafft.op1.53-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-basis.fasta.gfa		1
-didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-real.fasta.gfa	4992	8703	5726	acyclic	1
-didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-simu.fasta.gfa	6331	11188	7255	acyclic	1
-didelot-PanPA/output-didelot-mafft.op3-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-basis.fasta.gfa	4659	7816	5507	acyclic	1
-didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-real.fasta.gfa	4990	8852	5681	acyclic	1
-didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-simu.fasta.gfa	6087	10832	6926	acyclic	1
-didelot-PanPA/output-didelot-mafft.op5-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-basis.fasta.gfa	4678	7985	5433	acyclic	1
-didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-real.fasta.gfa	4952	8826	5634	acyclic	1
-didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-simu.fasta.gfa	6123	11129	6952	acyclic	1
-didelot-makeprg/output-didelot-mafft.op1.53-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1
-didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-basis.fasta.gfa	121	182	23002	acyclic	1
-didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-real.fasta.gfa	1030	1420	26925	acyclic	1
-didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-simu.fasta.gfa	2248	3211	63596	acyclic	10
-didelot-makeprg/output-didelot-mafft.op3-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1
-didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-basis.fasta.gfa	123	187	22942	acyclic	1
-didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-real.fasta.gfa	985	1361	27152	acyclic	1
-didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-simu.fasta.gfa	2213	3163	63885	acyclic	10
-didelot-makeprg/output-didelot-mafft.op5-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1
-didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-basis.fasta.gfa	117	177	22987	acyclic	1
-didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-real.fasta.gfa	1019	1406	26886	acyclic	1
-didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-simu.fasta.gfa	2247	3209	63711	acyclic	10
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4544	8136	8107	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	6099	10979	8465	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4649	7714	5487	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4992	8703	5726	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6331	11188	7255	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4547	8142	8303	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4563	7674	5885	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4569	8172	8590	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	6133	11018	8815	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4559	8144	8477	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	6113	10994	8647	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4547	8144	8283	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4564	7676	5888	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4579	8188	8634	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	6133	11021	8816	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4564	8153	8532	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	6115	10998	8647	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4547	8143	8283	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4299	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4564	7676	5888	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4579	8188	8634	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	6133	11021	8818	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4564	8154	8528	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	6115	10998	8647	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4573	7769	5845	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4591	8377	7840	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	5820	10550	8314	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4659	7816	5507	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4990	8852	5681	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6087	10832	6926	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4594	8361	8004	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	5823	10567	8323	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4303	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4608	8403	8239	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	5850	10605	8714	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4604	8386	8189	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	5836	10573	8551	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4594	8361	8004	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	5826	10570	8331	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4303	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4615	8415	8273	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	5859	10613	8770	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4606	8387	8205	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	5841	10580	8566	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4594	8359	8011	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	5826	10570	8331	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4304	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4615	8415	8273	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	5859	10612	8770	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4606	8387	8205	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	5841	10580	8566	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4581	7920	5776	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4536	8310	7885	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	5879	10889	8282	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4678	7985	5433	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4952	8826	5634	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6123	11129	6952	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4538	8313	7996	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	5882	10893	8318	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4559	8345	8277	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	5905	10944	8651	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4548	8320	8177	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	5895	10909	8472	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4538	8314	7992	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	5884	10897	8320	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4566	8356	8309	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	5911	10949	8691	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4550	8321	8189	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	5897	10914	8488	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4538	8316	7986	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	5884	10897	8320	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4566	8356	8309	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	5911	10949	8691	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4550	8321	8189	acyclic	1
-didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	5904	10925	8508	acyclic	1
+path_gfa	n_nodes	n_edges	len_graph	is_acyclic	weakly_connected_components	len_shared_nodes	perc_len_shared_nodes
+didelot-pggb/coli27-86/coli27-86.fa.gz.269940d.417fcdf.a8b8a10.smooth.final.gfa	2204	3022	4328	acyclic	1	2506	57.902033271719034
+didelot-pggb/slpa-basis/slpa-basis.fa.gz.acf6c7c.417fcdf.67d1f12.smooth.final.gfa	588	806	21277	acyclic	1	0	0.0
+didelot-pggb/slpa-real/slpa-real.fa.gz.b38b29c.417fcdf.571a156.smooth.final.gfa	2339	3209	23376	acyclic	1	0	0.0
+didelot-pggb/slpa-simu/slpa-simu.fa.gz.b38b29c.417fcdf.571a156.smooth.final.gfa	3757	5266	26125	cyclic	1	0	0.0
+didelot-PanPA/output-didelot-mafft.op1.53-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-basis.fasta.gfa		1	42	0.7654455986878075
+didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-real.fasta.gfa	4992	8703	5726	acyclic	1	547	9.55291652113168
+didelot-PanPA/output-didelot-mafft.op1.53-ep0/slpa-simu.fasta.gfa	6331	11188	7255	acyclic	1	285	3.9283252929014476
+didelot-PanPA/output-didelot-mafft.op3-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-basis.fasta.gfa	4659	7816	5507	acyclic	1	547	9.932812783729798
+didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-real.fasta.gfa	4990	8852	5681	acyclic	1	529	9.31174089068826
+didelot-PanPA/output-didelot-mafft.op3-ep0/slpa-simu.fasta.gfa	6087	10832	6926	acyclic	1	288	4.15824429685244
+didelot-PanPA/output-didelot-mafft.op5-ep0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-basis.fasta.gfa	4678	7985	5433	acyclic	1	538	9.902448002944967
+didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-real.fasta.gfa	4952	8826	5634	acyclic	1	531	9.424920127795527
+didelot-PanPA/output-didelot-mafft.op5-ep0/slpa-simu.fasta.gfa	6123	11129	6952	acyclic	1	282	4.0563866513233595
+didelot-makeprg/output-didelot-mafft.op1.53-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-basis.fasta.gfa	121	182	23002	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-real.fasta.gfa	1030	1420	26925	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op1.53-ep0/slpa-simu.fasta.gfa	2248	3211	63596	acyclic	10	-1	-1
+didelot-makeprg/output-didelot-mafft.op3-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-basis.fasta.gfa	123	187	22942	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-real.fasta.gfa	985	1361	27152	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op3-ep0/slpa-simu.fasta.gfa	2213	3163	63885	acyclic	10	-1	-1
+didelot-makeprg/output-didelot-mafft.op5-ep0/coli27-86.fasta.gfa	869	1371	13926	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-basis.fasta.gfa	117	177	22987	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-real.fasta.gfa	1019	1406	26886	acyclic	1	-1	-1
+didelot-makeprg/output-didelot-mafft.op5-ep0/slpa-simu.fasta.gfa	2247	3209	63711	acyclic	10	-1	-1
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1	554	9.512362637362637
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4544	8136	8107	acyclic	1	547	6.747255458245959
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	6099	10979	8465	acyclic	1	274	3.236857649143532
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4649	7714	5487	acyclic	1	554	10.096591944596318
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4992	8703	5726	acyclic	1	547	9.55291652113168
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6331	11188	7255	acyclic	1	274	3.7767057201929704
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1	554	9.512362637362637
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4547	8142	8303	acyclic	1	547	6.587980248103095
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1	274	3.2364753130167725
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1	2581	60.02325581395349
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4563	7674	5885	acyclic	1	554	9.41376380628717
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4569	8172	8590	acyclic	1	547	6.3678696158323636
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	6133	11018	8815	acyclic	1	274	3.108338060124787
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1	2581	60.02325581395349
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1	554	9.500943234436631
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4559	8144	8477	acyclic	1	547	6.452754512209507
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	6113	10994	8647	acyclic	1	274	3.168729038973054
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1	554	9.512362637362637
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4547	8144	8283	acyclic	1	547	6.603887480381504
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1	274	3.2364753130167725
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1	2581	60.02325581395349
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4564	7676	5888	acyclic	1	554	9.408967391304348
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4579	8188	8634	acyclic	1	547	6.335418114431318
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	6133	11021	8816	acyclic	1	274	3.1079854809437384
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1	2581	60.02325581395349
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1	554	9.500943234436631
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4564	8153	8532	acyclic	1	547	6.411157993436474
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	6115	10998	8647	acyclic	1	274	3.168729038973054
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4560	7664	5824	acyclic	1	554	9.512362637362637
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4547	8143	8283	acyclic	1	547	6.603887480381504
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	6100	10974	8466	acyclic	1	274	3.2364753130167725
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4299	acyclic	1	2581	60.037217957664566
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4564	7676	5888	acyclic	1	554	9.408967391304348
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4579	8188	8634	acyclic	1	547	6.335418114431318
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	6133	11021	8818	acyclic	1	274	3.1072805624858244
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4300	acyclic	1	2581	60.02325581395349
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4560	7663	5831	acyclic	1	554	9.500943234436631
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4564	8154	8528	acyclic	1	547	6.414165103189494
+didelot-pangeblocks/output-didelot-mafft.op1.53-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	6115	10998	8647	acyclic	1	274	3.168729038973054
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4573	7769	5845	acyclic	1	547	9.358426005132593
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4591	8377	7840	acyclic	1	529	6.747448979591837
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	5820	10550	8314	acyclic	1	288	3.464036564830406
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4659	7816	5507	acyclic	1	547	9.932812783729798
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4990	8852	5681	acyclic	1	529	9.31174089068826
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6087	10832	6926	acyclic	1	288	4.15824429685244
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4594	8361	8004	acyclic	1	529	6.609195402298851
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	5823	10567	8323	acyclic	1	288	3.4602907605430735
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4303	acyclic	1	2581	59.9814083197769
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1	547	9.286926994906622
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4608	8403	8239	acyclic	1	529	6.420682121616701
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	5850	10605	8714	acyclic	1	288	3.3050263943080105
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4604	8386	8189	acyclic	1	529	6.459885211869581
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	5836	10573	8551	acyclic	1	288	3.368027131329669
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4594	8361	8004	acyclic	1	529	6.609195402298851
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	5826	10570	8331	acyclic	1	288	3.456967951026287
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4303	acyclic	1	2581	59.9814083197769
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1	547	9.286926994906622
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4615	8415	8273	acyclic	1	529	6.39429469358153
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	5859	10613	8770	acyclic	1	288	3.283922462941847
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4606	8387	8205	acyclic	1	529	6.447288238878733
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	5841	10580	8566	acyclic	1	288	3.3621293485874384
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4594	8359	8011	acyclic	1	529	6.603420297091499
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	5826	10570	8331	acyclic	1	288	3.456967951026287
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4304	acyclic	1	2581	59.96747211895911
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4576	7772	5890	acyclic	1	547	9.286926994906622
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4615	8415	8273	acyclic	1	529	6.39429469358153
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	5859	10612	8770	acyclic	1	288	3.283922462941847
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4573	7772	5851	acyclic	1	547	9.348829259955563
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4606	8387	8205	acyclic	1	529	6.447288238878733
+didelot-pangeblocks/output-didelot-mafft.op3-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	5841	10580	8566	acyclic	1	288	3.3621293485874384
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-basis.fasta.gfa	4581	7920	5776	acyclic	1	538	9.314404432132964
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-real.fasta.gfa	4536	8310	7885	acyclic	1	531	6.734305643627141
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/nodes/penalization0-min_len0/slpa-simu.fasta.gfa	5879	10889	8282	acyclic	1	282	3.4049746438058444
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/coli27-86.fasta.gfa	2254	3092	4246	acyclic	1	2581	60.78662270372115
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-basis.fasta.gfa	4678	7985	5433	acyclic	1	538	9.902448002944967
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-real.fasta.gfa	4952	8826	5634	acyclic	1	531	9.424920127795527
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/strings/penalization0-min_len0/slpa-simu.fasta.gfa	6123	11129	6952	acyclic	1	282	4.0563866513233595
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1	538	9.327323162274618
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-real.fasta.gfa	4538	8313	7996	acyclic	1	531	6.640820410205102
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len10/slpa-simu.fasta.gfa	5882	10893	8318	acyclic	1	282	3.390238037989901
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1	538	9.277461631315743
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-real.fasta.gfa	4559	8345	8277	acyclic	1	531	6.415367886915549
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len3/slpa-simu.fasta.gfa	5905	10944	8651	acyclic	1	282	3.2597387585250264
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1	538	9.330558446063128
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-real.fasta.gfa	4548	8320	8177	acyclic	1	531	6.493824140882964
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization3-min_len5/slpa-simu.fasta.gfa	5895	10909	8472	acyclic	1	282	3.3286118980169968
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1	538	9.327323162274618
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-real.fasta.gfa	4538	8314	7992	acyclic	1	531	6.6441441441441444
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len10/slpa-simu.fasta.gfa	5884	10897	8320	acyclic	1	282	3.3894230769230766
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1	538	9.277461631315743
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-real.fasta.gfa	4566	8356	8309	acyclic	1	531	6.390660729329642
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len3/slpa-simu.fasta.gfa	5911	10949	8691	acyclic	1	282	3.244735933724543
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1	538	9.330558446063128
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-real.fasta.gfa	4550	8321	8189	acyclic	1	531	6.484308218341678
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization5-min_len5/slpa-simu.fasta.gfa	5897	10914	8488	acyclic	1	282	3.322337417530632
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/coli27-86.fasta.gfa	2238	3074	4296	acyclic	1	2581	60.07914338919925
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-basis.fasta.gfa	4581	7920	5768	acyclic	1	538	9.327323162274618
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-real.fasta.gfa	4538	8316	7986	acyclic	1	531	6.649135987978963
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len10/slpa-simu.fasta.gfa	5884	10897	8320	acyclic	1	282	3.3894230769230766
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-basis.fasta.gfa	4585	7935	5799	acyclic	1	538	9.277461631315743
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-real.fasta.gfa	4566	8356	8309	acyclic	1	531	6.390660729329642
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len3/slpa-simu.fasta.gfa	5911	10949	8691	acyclic	1	282	3.244735933724543
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/coli27-86.fasta.gfa	2238	3074	4301	acyclic	1	2581	60.009300162752844
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-basis.fasta.gfa	4581	7918	5766	acyclic	1	538	9.330558446063128
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-real.fasta.gfa	4550	8321	8189	acyclic	1	531	6.484308218341678
+didelot-pangeblocks/output-didelot-mafft.op5-ep0/gfa-unchop/weighted/penalization7-min_len5/slpa-simu.fasta.gfa	5904	10925	8508	acyclic	1	282	3.314527503526093
+didelot-vg/output-HLA-zoo-mafft.op1.53-ep0/coli27-86.fasta.gfa	2256	3094	4246	acyclic	1	2581	60.78662270372115
+didelot-vg/output-HLA-zoo-mafft.op1.53-ep0/slpa-basis.fasta.gfa	4660	7725	5487	acyclic	1	554	10.096591944596318
+didelot-vg/output-HLA-zoo-mafft.op1.53-ep0/slpa-real.fasta.gfa	4995	8706	5726	acyclic	1	547	9.55291652113168
+didelot-vg/output-HLA-zoo-mafft.op1.53-ep0/slpa-simu.fasta.gfa	6339	11196	7255	acyclic	1	274	3.7767057201929704
+didelot-vg/output-HLA-zoo-mafft.op3-ep0/coli27-86.fasta.gfa	2256	3094	4246	acyclic	1	2581	60.78662270372115
+didelot-vg/output-HLA-zoo-mafft.op3-ep0/slpa-basis.fasta.gfa	4664	7821	5507	acyclic	1	547	9.932812783729798
+didelot-vg/output-HLA-zoo-mafft.op3-ep0/slpa-real.fasta.gfa	4992	8854	5681	acyclic	1	529	9.31174089068826
+didelot-vg/output-HLA-zoo-mafft.op3-ep0/slpa-simu.fasta.gfa	6094	10839	6926	acyclic	1	288	4.15824429685244
+didelot-vg/output-HLA-zoo-mafft.op5-ep0/coli27-86.fasta.gfa	2256	3094	4246	acyclic	1	2581	60.78662270372115
+didelot-vg/output-HLA-zoo-mafft.op5-ep0/slpa-basis.fasta.gfa	4682	7989	5433	acyclic	1	538	9.902448002944967
+didelot-vg/output-HLA-zoo-mafft.op5-ep0/slpa-real.fasta.gfa	4956	8830	5634	acyclic	1	531	9.424920127795527
+didelot-vg/output-HLA-zoo-mafft.op5-ep0/slpa-simu.fasta.gfa	6129	11135	6952	acyclic	1	282	4.0563866513233595

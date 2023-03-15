@@ -1,157 +1,161 @@
-	tool	gfa_id	msa	obj_function	penalization	min_len	len_graph	n_nodes	n_edges	is_acyclic	weakly_connected_components
-0	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	5	4300.0	2238.0	3074	acyclic	1.0
-1	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	5	8647.0	6113.0	10994	acyclic	1.0
-2	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	5	8477.0	4559.0	8144	acyclic	1.0
-3	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	5	5831.0	4560.0	7663	acyclic	1.0
-4	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	3	8818.0	6133.0	11021	acyclic	1.0
-5	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	3	8634.0	4579.0	8188	acyclic	1.0
-6	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	3	5888.0	4564.0	7676	acyclic	1.0
-7	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	3	4299.0	2238.0	3074	acyclic	1.0
-8	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	5	8532.0	4564.0	8153	acyclic	1.0
-9	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	5	8647.0	6115.0	10998	acyclic	1.0
-10	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	5	4300.0	2238.0	3074	acyclic	1.0
-11	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	5	5831.0	4560.0	7663	acyclic	1.0
-12	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	10	8283.0	4547.0	8144	acyclic	1.0
-13	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	10	8466.0	6100.0	10974	acyclic	1.0
-14	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	10	5824.0	4560.0	7664	acyclic	1.0
-15	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	10	4296.0	2238.0	3074	acyclic	1.0
-16	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	10	4296.0	2238.0	3074	acyclic	1.0
-17	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	10	5824.0	4560.0	7664	acyclic	1.0
-18	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	10	8466.0	6100.0	10974	acyclic	1.0
-19	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	10	8283.0	4547.0	8143	acyclic	1.0
-20	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	3	8815.0	6133.0	11018	acyclic	1.0
-21	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	3	8590.0	4569.0	8172	acyclic	1.0
-22	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	3	4300.0	2238.0	3074	acyclic	1.0
-23	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	3	5885.0	4563.0	7674	acyclic	1.0
-24	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	10	8466.0	6100.0	10974	acyclic	1.0
-25	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	10	8303.0	4547.0	8142	acyclic	1.0
-26	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	10	5824.0	4560.0	7664	acyclic	1.0
-27	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	10	4296.0	2238.0	3074	acyclic	1.0
-28	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	5	5831.0	4560.0	7663	acyclic	1.0
-29	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	5	4300.0	2238.0	3074	acyclic	1.0
-30	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	5	8528.0	4564.0	8154	acyclic	1.0
-31	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	5	8647.0	6115.0	10998	acyclic	1.0
-32	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	3	4300.0	2238.0	3074	acyclic	1.0
-33	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	3	8816.0	6133.0	11021	acyclic	1.0
-34	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	3	8634.0	4579.0	8188	acyclic	1.0
-35	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	3	5888.0	4564.0	7676	acyclic	1.0
-36	pangeblocks	coli27-86	mafft.op1.53-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-37	pangeblocks	slpa-simu	mafft.op1.53-ep0	strings	0	0	7255.0	6331.0	11188	acyclic	1.0
-38	pangeblocks	slpa-real	mafft.op1.53-ep0	strings	0	0	5726.0	4992.0	8703	acyclic	1.0
-39	pangeblocks	slpa-basis	mafft.op1.53-ep0	strings	0	0	5487.0	4649.0	7714	acyclic	1.0
-40	pangeblocks	slpa-simu	mafft.op1.53-ep0	nodes	0	0	8465.0	6099.0	10979	acyclic	1.0
-41	pangeblocks	slpa-real	mafft.op1.53-ep0	nodes	0	0	8107.0	4544.0	8136	acyclic	1.0
-42	pangeblocks	slpa-basis	mafft.op1.53-ep0	nodes	0	0	5824.0	4560.0	7664	acyclic	1.0
-43	pangeblocks	coli27-86	mafft.op1.53-ep0	nodes	0	0	4296.0	2238.0	3074	acyclic	1.0
-44	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	5	8566.0	5841.0	10580	acyclic	1.0
-45	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	5	8205.0	4606.0	8387	acyclic	1.0
-46	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	5	5851.0	4573.0	7772	acyclic	1.0
-47	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	5	4301.0	2238.0	3074	acyclic	1.0
-48	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	3	5890.0	4576.0	7772	acyclic	1.0
-49	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	3	4303.0	2238.0	3074	acyclic	1.0
-50	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	3	8273.0	4615.0	8415	acyclic	1.0
-51	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	3	8770.0	5859.0	10613	acyclic	1.0
-52	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	3	8239.0	4608.0	8403	acyclic	1.0
-53	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	3	8714.0	5850.0	10605	acyclic	1.0
-54	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	3	5890.0	4576.0	7772	acyclic	1.0
-55	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	3	4303.0	2238.0	3074	acyclic	1.0
-56	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	3	4304.0	2238.0	3074	acyclic	1.0
-57	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	3	5890.0	4576.0	7772	acyclic	1.0
-58	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	3	8273.0	4615.0	8415	acyclic	1.0
-59	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	3	8770.0	5859.0	10612	acyclic	1.0
-60	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	10	4301.0	2238.0	3074	acyclic	1.0
-61	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	10	8323.0	5823.0	10567	acyclic	1.0
-62	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	10	8004.0	4594.0	8361	acyclic	1.0
-63	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	10	5851.0	4573.0	7772	acyclic	1.0
-64	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	10	4301.0	2238.0	3074	acyclic	1.0
-65	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	10	5851.0	4573.0	7772	acyclic	1.0
-66	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	10	8331.0	5826.0	10570	acyclic	1.0
-67	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	10	8011.0	4594.0	8359	acyclic	1.0
-68	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	5	8566.0	5841.0	10580	acyclic	1.0
-69	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	5	8205.0	4606.0	8387	acyclic	1.0
-70	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	5	4301.0	2238.0	3074	acyclic	1.0
-71	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	5	5851.0	4573.0	7772	acyclic	1.0
-72	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	10	4301.0	2238.0	3074	acyclic	1.0
-73	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	10	8331.0	5826.0	10570	acyclic	1.0
-74	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	10	8004.0	4594.0	8361	acyclic	1.0
-75	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	10	5851.0	4573.0	7772	acyclic	1.0
-76	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	5	8551.0	5836.0	10573	acyclic	1.0
-77	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	5	8189.0	4604.0	8386	acyclic	1.0
-78	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	5	5851.0	4573.0	7772	acyclic	1.0
-79	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	5	4301.0	2238.0	3074	acyclic	1.0
-80	pangeblocks	slpa-basis	mafft.op3-ep0	nodes	0	0	5845.0	4573.0	7769	acyclic	1.0
-81	pangeblocks	coli27-86	mafft.op3-ep0	nodes	0	0	4301.0	2238.0	3074	acyclic	1.0
-82	pangeblocks	slpa-simu	mafft.op3-ep0	nodes	0	0	8314.0	5820.0	10550	acyclic	1.0
-83	pangeblocks	slpa-real	mafft.op3-ep0	nodes	0	0	7840.0	4591.0	8377	acyclic	1.0
-84	pangeblocks	slpa-basis	mafft.op3-ep0	strings	0	0	5507.0	4659.0	7816	acyclic	1.0
-85	pangeblocks	slpa-simu	mafft.op3-ep0	strings	0	0	6926.0	6087.0	10832	acyclic	1.0
-86	pangeblocks	slpa-real	mafft.op3-ep0	strings	0	0	5681.0	4990.0	8852	acyclic	1.0
-87	pangeblocks	coli27-86	mafft.op3-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-88	pangeblocks	coli27-86	mafft.op5-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-89	pangeblocks	slpa-basis	mafft.op5-ep0	strings	0	0	5433.0	4678.0	7985	acyclic	1.0
-90	pangeblocks	slpa-real	mafft.op5-ep0	strings	0	0	5634.0	4952.0	8826	acyclic	1.0
-91	pangeblocks	slpa-simu	mafft.op5-ep0	strings	0	0	6952.0	6123.0	11129	acyclic	1.0
-92	pangeblocks	coli27-86	mafft.op5-ep0	nodes	0	0	4296.0	2238.0	3074	acyclic	1.0
-93	pangeblocks	slpa-basis	mafft.op5-ep0	nodes	0	0	5776.0	4581.0	7920	acyclic	1.0
-94	pangeblocks	slpa-real	mafft.op5-ep0	nodes	0	0	7885.0	4536.0	8310	acyclic	1.0
-95	pangeblocks	slpa-simu	mafft.op5-ep0	nodes	0	0	8282.0	5879.0	10889	acyclic	1.0
-96	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	5	5766.0	4581.0	7918	acyclic	1.0
-97	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	5	8177.0	4548.0	8320	acyclic	1.0
-98	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	5	8472.0	5895.0	10909	acyclic	1.0
-99	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	5	4301.0	2238.0	3074	acyclic	1.0
-100	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	10	8318.0	5882.0	10893	acyclic	1.0
-101	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	10	7996.0	4538.0	8313	acyclic	1.0
-102	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	10	5768.0	4581.0	7920	acyclic	1.0
-103	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	10	4296.0	2238.0	3074	acyclic	1.0
-104	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	3	5799.0	4585.0	7935	acyclic	1.0
-105	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	3	8691.0	5911.0	10949	acyclic	1.0
-106	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	3	8309.0	4566.0	8356	acyclic	1.0
-107	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	3	4301.0	2238.0	3074	acyclic	1.0
-108	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	5	5766.0	4581.0	7918	acyclic	1.0
-109	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	5	4301.0	2238.0	3074	acyclic	1.0
-110	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	5	8189.0	4550.0	8321	acyclic	1.0
-111	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	5	8488.0	5897.0	10914	acyclic	1.0
-112	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	10	7986.0	4538.0	8316	acyclic	1.0
-113	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	10	8320.0	5884.0	10897	acyclic	1.0
-114	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	10	5768.0	4581.0	7920	acyclic	1.0
-115	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	10	4296.0	2238.0	3074	acyclic	1.0
-116	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	10	5768.0	4581.0	7920	acyclic	1.0
-117	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	10	4296.0	2238.0	3074	acyclic	1.0
-118	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	10	8320.0	5884.0	10897	acyclic	1.0
-119	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	10	7992.0	4538.0	8314	acyclic	1.0
-120	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	3	8277.0	4559.0	8345	acyclic	1.0
-121	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	3	8651.0	5905.0	10944	acyclic	1.0
-122	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	3	4301.0	2238.0	3074	acyclic	1.0
-123	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	3	5799.0	4585.0	7935	acyclic	1.0
-124	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	5	8189.0	4550.0	8321	acyclic	1.0
-125	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	5	8508.0	5904.0	10925	acyclic	1.0
-126	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	5	4301.0	2238.0	3074	acyclic	1.0
-127	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	5	5766.0	4581.0	7918	acyclic	1.0
-128	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	3	4301.0	2238.0	3074	acyclic	1.0
-129	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	3	5799.0	4585.0	7935	acyclic	1.0
-130	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	3	8691.0	5911.0	10949	acyclic	1.0
-131	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	3	8309.0	4566.0	8356	acyclic	1.0
-132	PanPA	slpa-basis	mafft.op1.53-ep0	strings	0	0			1		
-133	PanPA	coli27-86	mafft.op1.53-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-134	PanPA	slpa-real	mafft.op1.53-ep0	strings	0	0	5726.0	4992.0	8703	acyclic	1.0
-135	PanPA	slpa-simu	mafft.op1.53-ep0	strings	0	0	7255.0	6331.0	11188	acyclic	1.0
-136	PanPA	coli27-86	mafft.op3-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-137	PanPA	slpa-basis	mafft.op3-ep0	strings	0	0	5507.0	4659.0	7816	acyclic	1.0
-138	PanPA	slpa-real	mafft.op3-ep0	strings	0	0	5681.0	4990.0	8852	acyclic	1.0
-139	PanPA	slpa-simu	mafft.op3-ep0	strings	0	0	6926.0	6087.0	10832	acyclic	1.0
-140	PanPA	coli27-86	mafft.op5-ep0	strings	0	0	4246.0	2254.0	3092	acyclic	1.0
-141	PanPA	slpa-basis	mafft.op5-ep0	strings	0	0	5433.0	4678.0	7985	acyclic	1.0
-142	PanPA	slpa-real	mafft.op5-ep0	strings	0	0	5634.0	4952.0	8826	acyclic	1.0
-143	PanPA	slpa-simu	mafft.op5-ep0	strings	0	0	6952.0	6123.0	11129	acyclic	1.0
-144	makeprg	slpa-basis	mafft.op1.53-ep0	makeprg	0	0	23002.0	121.0	182	acyclic	1.0
-145	makeprg	coli27-86	mafft.op1.53-ep0	makeprg	0	0	13926.0	869.0	1371	acyclic	1.0
-146	makeprg	slpa-simu	mafft.op1.53-ep0	makeprg	0	0	63596.0	2248.0	3211	acyclic	10.0
-147	makeprg	slpa-real	mafft.op1.53-ep0	makeprg	0	0	26925.0	1030.0	1420	acyclic	1.0
-148	makeprg	slpa-real	mafft.op3-ep0	makeprg	0	0	27152.0	985.0	1361	acyclic	1.0
-149	makeprg	slpa-simu	mafft.op3-ep0	makeprg	0	0	63885.0	2213.0	3163	acyclic	10.0
-150	makeprg	slpa-basis	mafft.op3-ep0	makeprg	0	0	22942.0	123.0	187	acyclic	1.0
-151	makeprg	coli27-86	mafft.op3-ep0	makeprg	0	0	13926.0	869.0	1371	acyclic	1.0
-152	makeprg	coli27-86	mafft.op5-ep0	makeprg	0	0	13926.0	869.0	1371	acyclic	1.0
-153	makeprg	slpa-basis	mafft.op5-ep0	makeprg	0	0	22987.0	117.0	177	acyclic	1.0
-154	makeprg	slpa-real	mafft.op5-ep0	makeprg	0	0	26886.0	1019.0	1406	acyclic	1.0
-155	makeprg	slpa-simu	mafft.op5-ep0	makeprg	0	0	63711.0	2247.0	3209	acyclic	10.0
+	tool	gfa_id	msa	obj_function	penalization	min_len	len_graph	n_nodes	n_edges	is_acyclic	weakly_connected_components	len_shared_nodes	perc_len_shared_nodes
+0	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	5	4300	2238.0	3074	acyclic	1.0	2581	60.02
+1	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	5	8647	6113.0	10994	acyclic	1.0	274	3.17
+2	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	5	8477	4559.0	8144	acyclic	1.0	547	6.45
+3	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	5	5831	4560.0	7663	acyclic	1.0	554	9.5
+4	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	3	8818	6133.0	11021	acyclic	1.0	274	3.11
+5	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	3	8634	4579.0	8188	acyclic	1.0	547	6.34
+6	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	3	5888	4564.0	7676	acyclic	1.0	554	9.41
+7	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	3	4299	2238.0	3074	acyclic	1.0	2581	60.04
+8	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	5	8532	4564.0	8153	acyclic	1.0	547	6.41
+9	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	5	8647	6115.0	10998	acyclic	1.0	274	3.17
+10	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	5	4300	2238.0	3074	acyclic	1.0	2581	60.02
+11	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	5	5831	4560.0	7663	acyclic	1.0	554	9.5
+12	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	10	8283	4547.0	8144	acyclic	1.0	547	6.6
+13	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	10	8466	6100.0	10974	acyclic	1.0	274	3.24
+14	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	10	5824	4560.0	7664	acyclic	1.0	554	9.51
+15	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+16	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+17	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	10	5824	4560.0	7664	acyclic	1.0	554	9.51
+18	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	10	8466	6100.0	10974	acyclic	1.0	274	3.24
+19	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	10	8283	4547.0	8143	acyclic	1.0	547	6.6
+20	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	3	8815	6133.0	11018	acyclic	1.0	274	3.11
+21	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	3	8590	4569.0	8172	acyclic	1.0	547	6.37
+22	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	3	4300	2238.0	3074	acyclic	1.0	2581	60.02
+23	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	3	5885	4563.0	7674	acyclic	1.0	554	9.41
+24	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	3	10	8466	6100.0	10974	acyclic	1.0	274	3.24
+25	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	3	10	8303	4547.0	8142	acyclic	1.0	547	6.59
+26	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	3	10	5824	4560.0	7664	acyclic	1.0	554	9.51
+27	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	3	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+28	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	7	5	5831	4560.0	7663	acyclic	1.0	554	9.5
+29	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	7	5	4300	2238.0	3074	acyclic	1.0	2581	60.02
+30	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	7	5	8528	4564.0	8154	acyclic	1.0	547	6.41
+31	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	7	5	8647	6115.0	10998	acyclic	1.0	274	3.17
+32	pangeblocks	coli27-86	mafft.op1.53-ep0	weighted	5	3	4300	2238.0	3074	acyclic	1.0	2581	60.02
+33	pangeblocks	slpa-simu	mafft.op1.53-ep0	weighted	5	3	8816	6133.0	11021	acyclic	1.0	274	3.11
+34	pangeblocks	slpa-real	mafft.op1.53-ep0	weighted	5	3	8634	4579.0	8188	acyclic	1.0	547	6.34
+35	pangeblocks	slpa-basis	mafft.op1.53-ep0	weighted	5	3	5888	4564.0	7676	acyclic	1.0	554	9.41
+36	pangeblocks	coli27-86	mafft.op1.53-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+37	pangeblocks	slpa-simu	mafft.op1.53-ep0	strings	0	0	7255	6331.0	11188	acyclic	1.0	274	3.78
+38	pangeblocks	slpa-real	mafft.op1.53-ep0	strings	0	0	5726	4992.0	8703	acyclic	1.0	547	9.55
+39	pangeblocks	slpa-basis	mafft.op1.53-ep0	strings	0	0	5487	4649.0	7714	acyclic	1.0	554	10.1
+40	pangeblocks	slpa-simu	mafft.op1.53-ep0	nodes	0	0	8465	6099.0	10979	acyclic	1.0	274	3.24
+41	pangeblocks	slpa-real	mafft.op1.53-ep0	nodes	0	0	8107	4544.0	8136	acyclic	1.0	547	6.75
+42	pangeblocks	slpa-basis	mafft.op1.53-ep0	nodes	0	0	5824	4560.0	7664	acyclic	1.0	554	9.51
+43	pangeblocks	coli27-86	mafft.op1.53-ep0	nodes	0	0	4296	2238.0	3074	acyclic	1.0	2581	60.08
+44	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	5	8566	5841.0	10580	acyclic	1.0	288	3.36
+45	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	5	8205	4606.0	8387	acyclic	1.0	529	6.45
+46	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	5	5851	4573.0	7772	acyclic	1.0	547	9.35
+47	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+48	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	3	5890	4576.0	7772	acyclic	1.0	547	9.29
+49	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	3	4303	2238.0	3074	acyclic	1.0	2581	59.98
+50	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	3	8273	4615.0	8415	acyclic	1.0	529	6.39
+51	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	3	8770	5859.0	10613	acyclic	1.0	288	3.28
+52	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	3	8239	4608.0	8403	acyclic	1.0	529	6.42
+53	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	3	8714	5850.0	10605	acyclic	1.0	288	3.31
+54	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	3	5890	4576.0	7772	acyclic	1.0	547	9.29
+55	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	3	4303	2238.0	3074	acyclic	1.0	2581	59.98
+56	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	3	4304	2238.0	3074	acyclic	1.0	2581	59.97
+57	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	3	5890	4576.0	7772	acyclic	1.0	547	9.29
+58	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	3	8273	4615.0	8415	acyclic	1.0	529	6.39
+59	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	3	8770	5859.0	10612	acyclic	1.0	288	3.28
+60	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	10	4301	2238.0	3074	acyclic	1.0	2581	60.01
+61	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	10	8323	5823.0	10567	acyclic	1.0	288	3.46
+62	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	10	8004	4594.0	8361	acyclic	1.0	529	6.61
+63	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	10	5851	4573.0	7772	acyclic	1.0	547	9.35
+64	pangeblocks	coli27-86	mafft.op3-ep0	weighted	7	10	4301	2238.0	3074	acyclic	1.0	2581	60.01
+65	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	7	10	5851	4573.0	7772	acyclic	1.0	547	9.35
+66	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	7	10	8331	5826.0	10570	acyclic	1.0	288	3.46
+67	pangeblocks	slpa-real	mafft.op3-ep0	weighted	7	10	8011	4594.0	8359	acyclic	1.0	529	6.6
+68	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	5	8566	5841.0	10580	acyclic	1.0	288	3.36
+69	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	5	8205	4606.0	8387	acyclic	1.0	529	6.45
+70	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+71	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	5	5851	4573.0	7772	acyclic	1.0	547	9.35
+72	pangeblocks	coli27-86	mafft.op3-ep0	weighted	5	10	4301	2238.0	3074	acyclic	1.0	2581	60.01
+73	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	5	10	8331	5826.0	10570	acyclic	1.0	288	3.46
+74	pangeblocks	slpa-real	mafft.op3-ep0	weighted	5	10	8004	4594.0	8361	acyclic	1.0	529	6.61
+75	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	5	10	5851	4573.0	7772	acyclic	1.0	547	9.35
+76	pangeblocks	slpa-simu	mafft.op3-ep0	weighted	3	5	8551	5836.0	10573	acyclic	1.0	288	3.37
+77	pangeblocks	slpa-real	mafft.op3-ep0	weighted	3	5	8189	4604.0	8386	acyclic	1.0	529	6.46
+78	pangeblocks	slpa-basis	mafft.op3-ep0	weighted	3	5	5851	4573.0	7772	acyclic	1.0	547	9.35
+79	pangeblocks	coli27-86	mafft.op3-ep0	weighted	3	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+80	pangeblocks	slpa-basis	mafft.op3-ep0	nodes	0	0	5845	4573.0	7769	acyclic	1.0	547	9.36
+81	pangeblocks	coli27-86	mafft.op3-ep0	nodes	0	0	4301	2238.0	3074	acyclic	1.0	2581	60.01
+82	pangeblocks	slpa-simu	mafft.op3-ep0	nodes	0	0	8314	5820.0	10550	acyclic	1.0	288	3.46
+83	pangeblocks	slpa-real	mafft.op3-ep0	nodes	0	0	7840	4591.0	8377	acyclic	1.0	529	6.75
+84	pangeblocks	slpa-basis	mafft.op3-ep0	strings	0	0	5507	4659.0	7816	acyclic	1.0	547	9.93
+85	pangeblocks	slpa-simu	mafft.op3-ep0	strings	0	0	6926	6087.0	10832	acyclic	1.0	288	4.16
+86	pangeblocks	slpa-real	mafft.op3-ep0	strings	0	0	5681	4990.0	8852	acyclic	1.0	529	9.31
+87	pangeblocks	coli27-86	mafft.op3-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+88	pangeblocks	coli27-86	mafft.op5-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+89	pangeblocks	slpa-basis	mafft.op5-ep0	strings	0	0	5433	4678.0	7985	acyclic	1.0	538	9.9
+90	pangeblocks	slpa-real	mafft.op5-ep0	strings	0	0	5634	4952.0	8826	acyclic	1.0	531	9.42
+91	pangeblocks	slpa-simu	mafft.op5-ep0	strings	0	0	6952	6123.0	11129	acyclic	1.0	282	4.06
+92	pangeblocks	coli27-86	mafft.op5-ep0	nodes	0	0	4296	2238.0	3074	acyclic	1.0	2581	60.08
+93	pangeblocks	slpa-basis	mafft.op5-ep0	nodes	0	0	5776	4581.0	7920	acyclic	1.0	538	9.31
+94	pangeblocks	slpa-real	mafft.op5-ep0	nodes	0	0	7885	4536.0	8310	acyclic	1.0	531	6.73
+95	pangeblocks	slpa-simu	mafft.op5-ep0	nodes	0	0	8282	5879.0	10889	acyclic	1.0	282	3.4
+96	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	5	5766	4581.0	7918	acyclic	1.0	538	9.33
+97	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	5	8177	4548.0	8320	acyclic	1.0	531	6.49
+98	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	5	8472	5895.0	10909	acyclic	1.0	282	3.33
+99	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+100	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	10	8318	5882.0	10893	acyclic	1.0	282	3.39
+101	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	10	7996	4538.0	8313	acyclic	1.0	531	6.64
+102	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	10	5768	4581.0	7920	acyclic	1.0	538	9.33
+103	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+104	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	3	5799	4585.0	7935	acyclic	1.0	538	9.28
+105	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	3	8691	5911.0	10949	acyclic	1.0	282	3.24
+106	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	3	8309	4566.0	8356	acyclic	1.0	531	6.39
+107	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	3	4301	2238.0	3074	acyclic	1.0	2581	60.01
+108	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	5	5766	4581.0	7918	acyclic	1.0	538	9.33
+109	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+110	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	5	8189	4550.0	8321	acyclic	1.0	531	6.48
+111	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	5	8488	5897.0	10914	acyclic	1.0	282	3.32
+112	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	10	7986	4538.0	8316	acyclic	1.0	531	6.65
+113	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	10	8320	5884.0	10897	acyclic	1.0	282	3.39
+114	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	10	5768	4581.0	7920	acyclic	1.0	538	9.33
+115	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+116	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	10	5768	4581.0	7920	acyclic	1.0	538	9.33
+117	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	10	4296	2238.0	3074	acyclic	1.0	2581	60.08
+118	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	10	8320	5884.0	10897	acyclic	1.0	282	3.39
+119	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	10	7992	4538.0	8314	acyclic	1.0	531	6.64
+120	pangeblocks	slpa-real	mafft.op5-ep0	weighted	3	3	8277	4559.0	8345	acyclic	1.0	531	6.42
+121	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	3	3	8651	5905.0	10944	acyclic	1.0	282	3.26
+122	pangeblocks	coli27-86	mafft.op5-ep0	weighted	3	3	4301	2238.0	3074	acyclic	1.0	2581	60.01
+123	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	3	3	5799	4585.0	7935	acyclic	1.0	538	9.28
+124	pangeblocks	slpa-real	mafft.op5-ep0	weighted	7	5	8189	4550.0	8321	acyclic	1.0	531	6.48
+125	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	7	5	8508	5904.0	10925	acyclic	1.0	282	3.31
+126	pangeblocks	coli27-86	mafft.op5-ep0	weighted	7	5	4301	2238.0	3074	acyclic	1.0	2581	60.01
+127	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	7	5	5766	4581.0	7918	acyclic	1.0	538	9.33
+128	pangeblocks	coli27-86	mafft.op5-ep0	weighted	5	3	4301	2238.0	3074	acyclic	1.0	2581	60.01
+129	pangeblocks	slpa-basis	mafft.op5-ep0	weighted	5	3	5799	4585.0	7935	acyclic	1.0	538	9.28
+130	pangeblocks	slpa-simu	mafft.op5-ep0	weighted	5	3	8691	5911.0	10949	acyclic	1.0	282	3.24
+131	pangeblocks	slpa-real	mafft.op5-ep0	weighted	5	3	8309	4566.0	8356	acyclic	1.0	531	6.39
+132	PanPA	slpa-basis	mafft.op1.53-ep0	strings	0	0	42	-1.0	1	0.7654455986878075	-1.0	-1	-1.0
+133	PanPA	coli27-86	mafft.op1.53-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+134	PanPA	slpa-real	mafft.op1.53-ep0	strings	0	0	5726	4992.0	8703	acyclic	1.0	547	9.55
+135	PanPA	slpa-simu	mafft.op1.53-ep0	strings	0	0	7255	6331.0	11188	acyclic	1.0	285	3.93
+136	PanPA	coli27-86	mafft.op3-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+137	PanPA	slpa-basis	mafft.op3-ep0	strings	0	0	5507	4659.0	7816	acyclic	1.0	547	9.93
+138	PanPA	slpa-real	mafft.op3-ep0	strings	0	0	5681	4990.0	8852	acyclic	1.0	529	9.31
+139	PanPA	slpa-simu	mafft.op3-ep0	strings	0	0	6926	6087.0	10832	acyclic	1.0	288	4.16
+140	PanPA	coli27-86	mafft.op5-ep0	strings	0	0	4246	2254.0	3092	acyclic	1.0	2581	60.79
+141	PanPA	slpa-basis	mafft.op5-ep0	strings	0	0	5433	4678.0	7985	acyclic	1.0	538	9.9
+142	PanPA	slpa-real	mafft.op5-ep0	strings	0	0	5634	4952.0	8826	acyclic	1.0	531	9.42
+143	PanPA	slpa-simu	mafft.op5-ep0	strings	0	0	6952	6123.0	11129	acyclic	1.0	282	4.06
+144	makeprg	slpa-basis	mafft.op1.53-ep0	makeprg	0	0	23002	121.0	182	acyclic	1.0	-1	-1.0
+145	makeprg	coli27-86	mafft.op1.53-ep0	makeprg	0	0	13926	869.0	1371	acyclic	1.0	-1	-1.0
+146	makeprg	slpa-simu	mafft.op1.53-ep0	makeprg	0	0	63596	2248.0	3211	acyclic	10.0	-1	-1.0
+147	makeprg	slpa-real	mafft.op1.53-ep0	makeprg	0	0	26925	1030.0	1420	acyclic	1.0	-1	-1.0
+148	makeprg	slpa-real	mafft.op3-ep0	makeprg	0	0	27152	985.0	1361	acyclic	1.0	-1	-1.0
+149	makeprg	slpa-simu	mafft.op3-ep0	makeprg	0	0	63885	2213.0	3163	acyclic	10.0	-1	-1.0
+150	makeprg	slpa-basis	mafft.op3-ep0	makeprg	0	0	22942	123.0	187	acyclic	1.0	-1	-1.0
+151	makeprg	coli27-86	mafft.op3-ep0	makeprg	0	0	13926	869.0	1371	acyclic	1.0	-1	-1.0
+152	makeprg	coli27-86	mafft.op5-ep0	makeprg	0	0	13926	869.0	1371	acyclic	1.0	-1	-1.0
+153	makeprg	slpa-basis	mafft.op5-ep0	makeprg	0	0	22987	117.0	177	acyclic	1.0	-1	-1.0
+154	makeprg	slpa-real	mafft.op5-ep0	makeprg	0	0	26886	1019.0	1406	acyclic	1.0	-1	-1.0
+155	makeprg	slpa-simu	mafft.op5-ep0	makeprg	0	0	63711	2247.0	3209	acyclic	10.0	-1	-1.0
+156	pggb	coli27-86	wfmash	pggb	0	0	4328	2204.0	3022	acyclic	1.0	2506	57.9
+157	pggb	slpa-real	wfmash	pggb	0	0	23376	2339.0	3209	acyclic	1.0	0	0.0
+158	pggb	slpa-basis	wfmash	pggb	0	0	21277	588.0	806	acyclic	1.0	0	0.0
+159	pggb	slpa-simu	wfmash	pggb	0	0	26125	3757.0	5266	cyclic	1.0	0	0.0

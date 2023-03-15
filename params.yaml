@@ -1,11 +1,14 @@
 # directory with MSAs
-PATH_MSAS: "/data/msas-pangeblocks/HLA-zoo/no-reverse-complement/mafft.op5-ep0"
+PATH_MSAS: "/data/msas-pangeblocks/msas-didelot/mafft.op1.53-ep0"
 
 # make_prg
 MAKEPRG_OUTPUT: "HLA-zoo-makeprg/output-HLA-zoo-mafft.op5-ep0"
 
 # PanPA
-PANPA_OUTPUT: "HLA-zoo-PanPA/output-HLA-zoo-mafft.op1.53-ep0"
+PANPA_OUTPUT: "HLA-zoo-PanPA/output-HLA-zoo-mafft.op5-ep0"
+
+# VG
+VG_OUTPUT: "didelot-vg/output-HLA-zoo-mafft.op1.53-ep0"
 
 # PGGB
 PGGB_INPUT: "/data/HLA-zoo/no-reverse-complement"

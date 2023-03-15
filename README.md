@@ -15,6 +15,9 @@ To create MSAs for a set of sequences edit `params-mafft.yaml`, `OP` and `EP` ar
 snakemake rules/msa.smk -c16 --use-conda 
 ```
 
+when running `vg` for creating graphs, the header of the MSAs cause some problems when whitespaces are at the beginning `ls /data/msas-pangeblocks/msas-didelot/*/*.fa | while read f; do sed 's, ,,g' -i $f; done`
+
+
 ## Graphs
 
 ### `PanPA`
@@ -38,29 +41,36 @@ snakemake -s rules/pggb.smk -c16 --use-conda -k
 ### `pangeblocks`
 clone repo https://github.com/AlgoLab/pangeblocks and follow instruction in the README file.
 
+### `vg`
+set `PATH_MSAS` and  `VG_OUTPUT` in `params.yaml`, and then run
+```
+snakemake -s rules/vg.smk -c16 --use-conda
+```
 ___
 ## Stats
 
 ### Didelot graphs
 ```
-echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components" > notebooks/didelot-stats.gfa.csv
+echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components\tlen_shared_nodes\tperc_len_shared_nodes" > notebooks/didelot-stats.gfa.csv
 ls didelot-pggb/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
 ls didelot-PanPA/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
 ls didelot-makeprg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
 ls didelot-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
+ls didelot-vg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/didelot-stats.gfa.csv
 ```
 
 ### HLA-zoo graphs
 
 ```
-echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components" > notebooks/HLA-zoo-stats.gfa.csv
+echo -e "path_gfa\tn_nodes\tn_edges\tlen_graph\tis_acyclic\tweakly_connected_components\tlen_shared_nodes\tperc_len_shared_nodes" > notebooks/HLA-zoo-stats.gfa.csv
 ls HLA-zoo-pggb/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ls HLA-zoo-PanPA/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ls HLA-zoo-makeprg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ls HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
+ls HLA-zoo-vg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ```
 ___
-# VCF from GFA with `vg`
+## VCF from GFA with `vg`
 
 ```
 ls HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/vcf_from_gfa.sh $f; done
