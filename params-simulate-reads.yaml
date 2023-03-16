@@ -1,2 +1,2 @@
-PATH_SEQS: "/data/HLA-zoo/no-reverse-complement"
-PATH_OUTPUT: "simulated-reads-HLA-zoo"
+PATH_SEQS: "/data/didelot2"
+PATH_OUTPUT: "simulated-reads-didelot"
