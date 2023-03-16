@@ -1,0 +1,2 @@
+PATH_SEQS: "/data/HLA-zoo/no-reverse-complement"
+PATH_OUTPUT: "simulated-reads-HLA-zoo"
