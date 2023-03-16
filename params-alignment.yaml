@@ -1,0 +1,4 @@
+PATH_GFAS: "HLA-zoo-pggb"
+PATH_REFERENCES: "simulated-reads-HLA-zoo/reference"
+PATH_READS: "simulated-reads-HLA-zoo"
+PATH_OUTPUT: "alignment-simulated-reads-HLA-zoo/pggb"

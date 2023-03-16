@@ -9,6 +9,7 @@ VCF.vg-deconstruct/
 Luca/
 DWGSIM/
 simulated-reads*/
+alignment*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
