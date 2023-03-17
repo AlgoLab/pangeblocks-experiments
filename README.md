@@ -69,6 +69,21 @@ ls HLA-zoo-makeprg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; don
 ls HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ls HLA-zoo-vg/*/*.gfa | while read f; do ./scripts/stats_gfa_vg.sh $f ; done >> notebooks/HLA-zoo-stats.gfa.csv
 ```
+
+___
+## Experiment: read mapping
+
+### Read Simulation
+set `PATH_SEQS` and `PATH_OUTPUT` in `params-simulate-reads.yaml`. For each fasta in `PATH_SEQS` a reference (by default the first sequence in the file) will be extracted and reads will be simulated with `DWGSIM` using this sequence
+```
+snakemake -s rules/simulate_reads.smk -c16
+```
+
+### Read alignment
+`params-alignment.yaml`
+```
+snakemake -s rules/alignment_simreads.smk -c16
+```
 ___
 ## VCF from GFA with `vg`
 
