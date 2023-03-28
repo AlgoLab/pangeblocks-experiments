@@ -1,0 +1,5 @@
+outs:
+- md5: 2e2f8f4357286275c2c4ed80a0db196c.dir
+  size: 1465875846
+  nfiles: 15071
+  path: alignment-simulated-reads-HLA-zoo
