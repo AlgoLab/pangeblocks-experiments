@@ -1,0 +1,5 @@
+outs:
+- md5: 10e2599fb5586492a6b73852d2662329.dir
+  size: 2868366
+  nfiles: 140
+  path: simulated-reads-HLA-zoo

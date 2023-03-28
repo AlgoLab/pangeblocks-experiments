@@ -1,0 +1,5 @@
+outs:
+- md5: bb314c535958707981f220a804a1fa8c.dir
+  size: 113789
+  nfiles: 20
+  path: simulated-reads-didelot
