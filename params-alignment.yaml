@@ -1,5 +1,5 @@
 PATH_REFERENCES: "simulated-reads-HLA-zoo/reference"
 PATH_READS: "simulated-reads-HLA-zoo"
 
-PATH_GFAS: "HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa"
-PATH_OUTPUT: "alignment-simulated-reads-HLA-zoo/pangeblocks"
+PATH_GFAS:  "HLA-zoo-PanPA/*/*.gfa" #"HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa" #
+PATH_OUTPUT: "alignment-simulated-reads-HLA-zoo/PanPA" #"alignment-simulated-reads-HLA-zoo/pangeblocks"
