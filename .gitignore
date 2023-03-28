@@ -140,3 +140,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/HLA-zoo-pangeblocks
+/HLA-zoo-makeprg
+/HLA-zoo-PanPA
+/HLA-zoo-vg
