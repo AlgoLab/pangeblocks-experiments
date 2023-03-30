@@ -1,4 +1,4 @@
-configfile: "params-alignment.yaml"
+configfile: "params-alignment-graphaligner.yaml"
 import json
 from pathlib import Path
 from os.path import join as pjoin
@@ -46,8 +46,6 @@ rule all:
 
 rule alignment:
     input:
-        # path_gfa=lambda wildcards: \
-        #             seqsid_to_gfa[wildcards.seqs_id][0],
         path_gfa=lambda wildcards: id_to_gfa[int(wildcards.gfa_id)],
         path_reads=pjoin(PATH_READS, "{seqs_id}", "{seqs_id}.bwa.read1.fastq.gz"),
     output:

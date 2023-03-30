@@ -2,6 +2,7 @@
 import pandas as pd 
 from .load_gfa import load_gfa
 
+## Graph Aligner Output
 # meaning of some tags GAF format
 ABBV = dict(
     NM="edit distance to the reference",
@@ -17,10 +18,14 @@ COLS=[
     "id", "cigar"
 ]
 
-def load_gaf(path_gaf, path_gfa=None):
+
+## Graph Aligner Output
+
+def load_gaf(path_gaf, path_gfa=None, aligner="GraphAligner"):
     
     gaf=pd.read_csv(path_gaf, sep="\t", header=None)
-    gaf.columns = COLS
+    if aligner=="GraphAligner": 
+        gaf.columns = COLS
     
     # get values from some tags
     gaf["AS"] = gaf["AS"].apply(lambda v: float(v.split(":")[-1]))

@@ -81,8 +81,15 @@ snakemake -s rules/simulate_reads.smk -c16
 
 ### Read alignment
 `params-alignment.yaml`
+
+**GraphAligner**
 ```
-snakemake -s rules/alignment_simreads.smk -c16
+snakemake -s rules/alignment_simreads_graphaligner.smk -c16
+```
+
+**Giraffe**
+```
+snakemake -s rules/alignment_simreads_giraffe.smk -c16 --use-conda -k
 ```
 ___
 ## VCF from GFA with `vg`
