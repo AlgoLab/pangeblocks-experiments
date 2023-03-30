@@ -1,5 +1,19 @@
-PATH_REFERENCES: "simulated-reads-HLA-zoo/reference"
-PATH_READS: "simulated-reads-HLA-zoo"
+PATH_REFERENCES: "simulated-reads-didelot/reference"
+PATH_READS: "simulated-reads-didelot"
 
-PATH_GFAS: "" #"HLA-zoo-pangeblocks/*/gfa-unchop/*/*/*.gfa" #"HLA-zoo-PanPA/*/*.gfa" # "HLA-zoo-makeprg/*/*.gfa" # "HLA-zoo-pggb/*/*.gfa"
-PATH_OUTPUT: "" #"alignment-simulated-reads-HLA-zoo/giraffe/pangeblocks" #"alignment-simulated-reads-HLA-zoo/<aligner>/<gfa-tool>"
+PATH_GFAS: "didelot-vg/*/*.gfa" 
+PATH_OUTPUT: "alignment-simulated-reads-didelot/graphaligner/vg" 
+
+# PATH_OUTPUT:
+# "alignment-simulated-reads-<set>/<aligner>/<gfa-tool>"
+
+# PATH_GFAS: 
+# "<set>-pangeblocks/*/gfa-unchop/*/*/*.gfa" 
+# "<set>-PanPA/*/*.gfa"
+# "<set>-makeprg/*/*.gfa" ok  
+# "<set>-pggb/*/*.gfa" ok
+# "<>-vg/*/*.gfa" 
+
+# <set>: HLA-zoo | didelot
+# <gfa-tool>: pggb | vg | PanPA | makeprg | pangeblocks
+# <aligner>: giraffe | graphaligner

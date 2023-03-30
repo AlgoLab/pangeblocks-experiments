@@ -1,4 +1,4 @@
-configfile: "params-alignment-giraffe.yaml"
+configfile: "params-alignment.yaml"
 import json
 from pathlib import Path
 from os.path import join as pjoin

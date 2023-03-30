@@ -11,27 +11,37 @@ ABBV = dict(
 )
 
 # Load GAF (Graph alignment format)
-COLS=[
+COLS_GRAPHALIGNER=[
     "query_seq_name","query_seq_len", "query_start", "query_end", "strand_rel_path",
     "path_matching","path_len", "start_pos_path", "end_pos_path","num_residue_matches","alignment_block_len", 
     "mapping_quality", "NM", "AS", "dv",    
     "id", "cigar"
 ]
 
+COLS_GIRAFFE=[
+    "query_seq_name",   #0
+    "query_seq_len",    #1
+    "query_start",      #2
+    "query_end",        #3
+    "strand_rel_path",  #4
+    "path_matching",    #5
+    "path_len",         #6
+    "start_pos_path",   #7
+    "end_pos_path",     #8
+    "num_residue_matches",  #9
+    "alignment_block_len",  #10
+    "mapping_quality",      #11
+    "AS",   #12
+    "bq",   #13
+    "cs",   #14
+    "dv",   #15
+]
 
 ## Graph Aligner Output
-
 def load_gaf(path_gaf, path_gfa=None, aligner="GraphAligner"):
     
     gaf=pd.read_csv(path_gaf, sep="\t", header=None)
-    if aligner=="GraphAligner": 
-        gaf.columns = COLS
-    
-    # get values from some tags
-    gaf["AS"] = gaf["AS"].apply(lambda v: float(v.split(":")[-1]))
-    gaf["NM"] = gaf["NM"].apply(lambda v: int(v.split(":")[-1]))
-    gaf["id"] = gaf["id"].apply(lambda v: float(v.split(":")[-1]))
-    
+
     if path_gfa: 
         # check paths 
         # load GFA
@@ -40,6 +50,19 @@ def load_gaf(path_gaf, path_gfa=None, aligner="GraphAligner"):
         # paths in GFA format for direct comparison
         paths = {pid: "".join([">"+n for n in nodes]) for pid,nodes in paths.items()}
         
+
+    if aligner.lower()=="graphaligner": 
+        gaf.columns = COLS_GRAPHALIGNER
+        
+        # get values from some tags
+        gaf["AS"] = gaf["AS"].apply(lambda v: float(v.split(":")[-1]))
+        gaf["NM"] = gaf["NM"].apply(lambda v: int(v.split(":")[-1]))
+        gaf["id"] = gaf["id"].apply(lambda v: float(v.split(":")[-1]))
+
+        # check number of paths the reads is contained in 
         gaf["num_alignment_subpath_gfa"] = gaf["path_matching"].apply(lambda subpath: sum([subpath in p for p in paths.values()]))
 
+    elif aligner.lower()=="giraffe":
+        gaf.columns = COLS_GIRAFFE
+    
     return gaf

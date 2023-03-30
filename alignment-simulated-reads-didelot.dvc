@@ -1,0 +1,5 @@
+outs:
+- md5: 0ddad6f8d04b675eafff30ac476a1f8f.dir
+  size: 3030809497
+  nfiles: 1856
+  path: alignment-simulated-reads-didelot
