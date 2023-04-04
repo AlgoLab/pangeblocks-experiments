@@ -10,6 +10,8 @@ Luca/
 DWGSIM/
 simulated-reads*/
 alignment*/
+test/
+test_aligner.sh 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

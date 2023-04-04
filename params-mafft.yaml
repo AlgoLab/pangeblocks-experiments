@@ -1,5 +1,5 @@
 # MAFFT
-PATH_SEQS: "/data/Luca" #HLA-zoo/no-reverse-complement"
-MAFFT_OUTPUT: "/data/Luca/msa" #msas-pangeblocks/HLA-zoo/no-reverse-complement"
-OP: 5
+PATH_SEQS: "/data/pangeblocks-experiments/HLA-zoo-common-substrings" #HLA-zoo/no-reverse-complement"
+MAFFT_OUTPUT: "/data/pangeblocks-experiments/HLA-zoo-common-substrings" #msas-pangeblocks/HLA-zoo/no-reverse-complement"
+OP: 1.53
 EP: 0
